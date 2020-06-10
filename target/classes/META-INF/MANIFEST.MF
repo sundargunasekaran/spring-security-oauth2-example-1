@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-security-oauth2-example-2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SUNDAR.G
+Implementation-Vendor-Id: com.spring.security
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/spring-secur
+ ity-oauth2-example-2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
